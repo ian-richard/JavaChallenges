@@ -1,34 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d041f7a9-f754-4832-89ec-eacdef84d0e8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/description.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/project-template.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/runConfigurations.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/JavaChallenges.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/out/production/JavaChallenges/com/intellij/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/out/production/JavaChallenges/com/intellij/SumArray.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/src/com/intellij/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SumArray/src/com/intellij/SumArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/runConfigurations.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/JavaChallenges.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/out/production/JavaChallenges/com/intellij/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/out/production/JavaChallenges/com/intellij/SumArray.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/src/com/intellij/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Loops/src/com/intellij/SumArray.java" beforeDir="false" />
-    </list>
+    <list default="true" id="d041f7a9-f754-4832-89ec-eacdef84d0e8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -109,6 +82,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
@@ -148,6 +123,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
